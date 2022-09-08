@@ -160,7 +160,7 @@
 }
 .hero .box-hero .box:nth-child(1) .btn-2 {
   color: white;
-  background-color: var(--ungu);
+  background-color: var(--yellow);
   transition: all 0.2s ease-in-out;
 }
 
